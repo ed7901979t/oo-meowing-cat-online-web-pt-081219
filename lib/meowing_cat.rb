@@ -5,7 +5,7 @@ attr_accessor :name
  
 
 def meow(name)
-  Puts "meow!"
+  Puts "meow! #{name}"
 end
 
 end
