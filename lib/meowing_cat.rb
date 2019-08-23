@@ -9,3 +9,4 @@ def meow(name)
 end
 
 end
+meow(name)
